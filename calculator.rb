@@ -13,3 +13,11 @@ end
 
 result = subtract(4,4)
 puts "difference of two numbers are #{result}"
+
+def product(num1,num2)
+  product = num1 * num2
+  return product
+end
+
+result = product(4,4)
+puts "product of two numbers are #{result}"
